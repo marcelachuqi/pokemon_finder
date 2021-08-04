@@ -1,5 +1,6 @@
 import React from "react";
 import "../stylesheets/style.css";
+import pokeball from "../image/pngwing.com.png";
 
 const Pokemon = (props) => {
   const renderTypes = () => {
@@ -9,21 +10,19 @@ const Pokemon = (props) => {
   };
 
   return (
-    <div className="divClass">
-      <ul>
-        {" "}
+    <div>
+      <img href="#" className="pokeball btn-neon" src={pokeball} />
+      <ul className="pokeList">
         <li>
-          <img className="pokeClass" src={props.src} />{" "}
-        </li>{" "}
+          <h1 className="pokeName"> {props.name} </h1>
+        </li>
+      </ul>{" "}
+      <img className="pokeImg" src={props.src} />
+      <ul className="pokeList">
+        <li></li>
       </ul>
-      <ul>
-        <li>
-          <h1 className="titleClass"> {props.name} </h1>{" "}
-        </li>{" "}
-      </ul>
-      <ul className="typeClass">
-        {" "}
-        <li>{renderTypes()} </li>{" "}
+      <ul className="pokeList">
+        <li className="pokeType">{renderTypes()} </li>
       </ul>
     </div>
   );
