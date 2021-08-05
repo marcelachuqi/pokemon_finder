@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.a6dd254b.chunk.css",
-    "main.js": "./static/js/main.9ba542c4.chunk.js",
-    "main.js.map": "./static/js/main.9ba542c4.chunk.js.map",
+    "main.css": "./static/css/main.6ee66df2.chunk.css",
+    "main.js": "./static/js/main.f77c55e7.chunk.js",
+    "main.js.map": "./static/js/main.f77c55e7.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.16a2318b.js",
     "runtime-main.js.map": "./static/js/runtime-main.16a2318b.js.map",
     "static/js/2.c47385ed.chunk.js": "./static/js/2.c47385ed.chunk.js",
     "static/js/2.c47385ed.chunk.js.map": "./static/js/2.c47385ed.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.a6dd254b.chunk.css.map": "./static/css/main.a6dd254b.chunk.css.map",
-    "static/js/2.c47385ed.chunk.js.LICENSE.txt": "./static/js/2.c47385ed.chunk.js.LICENSE.txt"
+    "static/css/main.6ee66df2.chunk.css.map": "./static/css/main.6ee66df2.chunk.css.map",
+    "static/js/2.c47385ed.chunk.js.LICENSE.txt": "./static/js/2.c47385ed.chunk.js.LICENSE.txt",
+    "static/media/538px-International_Pokémon_logo.svg.54640d8a.png": "./static/media/538px-International_Pokémon_logo.svg.54640d8a.png",
+    "static/media/pngwing.com.ca5d2b9a.png": "./static/media/pngwing.com.ca5d2b9a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.16a2318b.js",
     "static/js/2.c47385ed.chunk.js",
-    "static/css/main.a6dd254b.chunk.css",
-    "static/js/main.9ba542c4.chunk.js"
+    "static/css/main.6ee66df2.chunk.css",
+    "static/js/main.f77c55e7.chunk.js"
   ]
 }
